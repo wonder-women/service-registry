@@ -1,0 +1,2 @@
+# service-registry
+Eureka server
