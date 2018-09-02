@@ -1,2 +1,1 @@
-# service-registry
-Eureka server
+# config-server
